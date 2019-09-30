@@ -1,1 +1,2 @@
 # GepiLatasPanorama
+Takacs Tibor
